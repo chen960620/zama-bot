@@ -1,3 +1,3 @@
 # zama-bot
 auto bot
-now 1
+now 2
